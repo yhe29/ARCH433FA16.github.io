@@ -1,0 +1,6 @@
+...
+layout:default
+title:my first blog post
+...
+
+hi Everybody!
